@@ -1,5 +1,4 @@
 -- SQL Practice
--- Queries will be added during SQL learning
 -- =====================================
 -- SELECT
 -- =====================================
